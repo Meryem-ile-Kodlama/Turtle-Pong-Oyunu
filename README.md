@@ -1,2 +1,2 @@
 # Turtle-Pong-Oyunu
-YouTube video linki -
+YouTube video linki - 
